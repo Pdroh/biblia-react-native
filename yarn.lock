@@ -6127,19 +6127,6 @@ react-native-svg@^12.1.0:
     css-select "^2.1.0"
     css-tree "^1.0.0-alpha.39"
 
-react-native-swipe-action-list@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/react-native-swipe-action-list/-/react-native-swipe-action-list-0.0.3.tgz#3e00cfa7938d03131c7919f2dcff6bcb72f4aa60"
-  integrity sha512-rphvz4/tfBjd2WbafcUzo5qSwyFmlGyo8amGqWvpkgQnYpxotMKpOSvICv3iSdA8mDvKnmfCATxNTBBXEm1MyQ==
-  dependencies:
-    prop-types "^15.7.2"
-    react-native-swipe-list-view "2.0.0"
-
-react-native-swipe-list-view@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-swipe-list-view/-/react-native-swipe-list-view-2.0.0.tgz#031db12a52d3441715ff1d1e127a8aaee95c21aa"
-  integrity sha512-Lyoau882tcyWeZ/+8GOM0vi1obLbvHcVEM980D9/Qh9lQ/f2wJhbKM4pTXVBmJoWc+IDn31TRAenWzpGahEK8A==
-
 react-native-swiper@^1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/react-native-swiper/-/react-native-swiper-1.6.0.tgz#59fdbdf95addee49630312f27077622c27776819"
