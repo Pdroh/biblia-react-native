@@ -64,7 +64,7 @@ $ npm install
 ```
 
 
-**Executando o projeto no Android
+**Executando o projeto no Android**
 
 ```
 $ react-native run-android --port=9001
