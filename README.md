@@ -63,6 +63,13 @@ _ou_
 $ npm install
 ```
 
+
+**Executando o projeto no Android
+
+```
+$ react-native run-android --port=9001
+```
+
 ## Contribuições
 
 Você pode enviar quantos PR's quiser, ficarei feliz em analisá-los e aceitá-los! E se você tiver alguma dúvida sobre o projeto ...
