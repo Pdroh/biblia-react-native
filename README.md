@@ -1,6 +1,14 @@
 # Bíblia Sagrada React Native App
 Aplicativo para leitura da bíblia sagrada e acompanhamento de percentual de leitura.
 
+## Doações
+Ajude a manter o código atualizado!
+
+Por mais que seja um código opensource, seria legal uma doação apra ajudar a disponibilizar um tempo para manter o código sempre atulizado ^^.
+
+Doe atevés do [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SR6NZHJB3CMPN&item_name=Ajudar+na+manuten%C3%A7%C3%A3o+do+c%C3%B3digo%21&currency_code=BRL)
+
+# Screenshots
 | Splash | Home | Versões | Testamentos |
 |----------|----------|----------|----------|
 | ![example](http://accessfast.com.br/images/app-biblia/Screenshot_1.jpg) |  ![example](http://accessfast.com.br/images/app-biblia/Screenshot_2.jpg) | ![example](http://accessfast.com.br/images/app-biblia/Screenshot_3.jpg) | ![example](http://accessfast.com.br/images/app-biblia/Screenshot_4.jpg) |
@@ -79,6 +87,13 @@ E-mail: pdrohs@gmail.com
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-30583245/)
 
 Muito obrigado, e Deus abençoe!
+
+## Doações
+Ajude a manter o código atualizado!
+
+Por mais que seja um código opensource, seria legal uma doação apra ajudar a disponibilizar um tempo para manter o código sempre atulizado ^^.
+
+Doe atevés do [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SR6NZHJB3CMPN&item_name=Ajudar+na+manuten%C3%A7%C3%A3o+do+c%C3%B3digo%21&currency_code=BRL)
 
 ## Licença
 
