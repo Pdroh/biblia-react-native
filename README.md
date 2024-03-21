@@ -4,7 +4,7 @@ Aplicativo para leitura da bíblia sagrada e acompanhamento de percentual de lei
 ## Doações
 Ajude a manter o código atualizado!
 
-Por mais que seja um código opensource, seria legal uma doação apra ajudar a disponibilizar um tempo para manter o código sempre atulizado ^^.
+Por mais que seja um código opensource, seria legal uma doação apra ajudar a disponibilizar um tempo para manter o código sempre atualizado ^^.
 
 Doe atevés do [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SR6NZHJB3CMPN&item_name=Ajudar+na+manuten%C3%A7%C3%A3o+do+c%C3%B3digo%21&currency_code=BRL)
 
