@@ -11,7 +11,7 @@ Doe atevés do [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&bus
 # Screenshots
 | Splash | Home | Versões | Testamentos |
 |----------|----------|----------|----------|
-| ![example](https://accessfast.com.br/images/app-biblia/Screenshot_1.jpg) |  ![example](https://accessfast.com.br/old/site_20240219/images/app-biblia/Screenshot_2.jpg) | ![example](https://accessfast.com.br/old/site_20240219/images/app-biblia/Screenshot_3.jpg) | ![example](https://accessfast.com.br/old/site_20240219/images/app-biblia/Screenshot_4.jpg) |
+| ![example](https://accessfast.com.br/old/site_20240219/images/app-biblia/Screenshot_1.jpg) |  ![example](https://accessfast.com.br/old/site_20240219/images/app-biblia/Screenshot_2.jpg) | ![example](https://accessfast.com.br/old/site_20240219/images/app-biblia/Screenshot_3.jpg) | ![example](https://accessfast.com.br/old/site_20240219/images/app-biblia/Screenshot_4.jpg) |
 
 | Procurar | Estatísticas | Favoritos | Meus Dados |
 |----------|----------|----------|----------|
